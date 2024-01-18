@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8IAYWAQG0uqLrsjNwF10o9or8eanx4819Q7cD5sx7m0=",
+  "Source": "LoginJWTApi",
+  "BasePath": "_content/LoginJWTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
